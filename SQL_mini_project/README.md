@@ -27,8 +27,3 @@ Results should look like:
 ```
 
 If you see this then things are working and you should be able to edit the file to add in any queries you want. 
-
-
-## Work online via https://sql.springboard.com/
-
-If you want to just log in somewhere and write SQL (no python involved) then you can go to https://sql.springboard.com/ log in with Username=student and Password=learn_sql@springboard and write and work on your SQL queries in there. Open the file `SQLTasks Tier 1.sql` for more a list of the questions we want to try answer and more information and instructions.
